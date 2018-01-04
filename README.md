@@ -9,6 +9,12 @@
 >npm install
 >```
 
+> #### setup mongo db name
+> within server.js - change **DB_NAME** to whatever you desire
+> within MongoDB Community Compass (GUI) or cmd line...
+> - set your *Database Name* same as **DB_NAME** in server.js
+> - name your first table in *Collection Name*
+
 <br/>
 
 ### 👍 Suggested 👍
